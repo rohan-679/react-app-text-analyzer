@@ -50,7 +50,7 @@ export default function Textform(props) {
           rows="7"
         ></textarea>
       </div>
-      <button className="btn btn-primary m-2" onClick={handleUpClick}>
+      <button className="btn btn-success m-2" onClick={handleUpClick}>
         Convert to uppercase
       </button>
       <button className="btn btn-info m-2" onClick={handleDownClick}>
